@@ -1,0 +1,13 @@
+Fault_Node,Fault_Type,Detected,Test_Cube,Solve_Time_s
+G10gat,sa0,YES,G1gat=0 G2gat=1 G3gat=1 G6gat=1 G7gat=X,0.001002
+G10gat,sa1,YES,G1gat=1 G2gat=1 G3gat=1 G6gat=1 G7gat=X,0.001467
+G11gat,sa0,YES,G1gat=X G2gat=0 G3gat=0 G6gat=X G7gat=1,0.0
+G11gat,sa1,YES,G1gat=X G2gat=0 G3gat=1 G6gat=1 G7gat=1,0.001
+G16gat,sa0,YES,G1gat=1 G2gat=0 G3gat=1 G6gat=0 G7gat=0,0.000998
+G16gat,sa1,YES,G1gat=X G2gat=1 G3gat=0 G6gat=X G7gat=X,0.0
+G19gat,sa0,YES,G1gat=X G2gat=X G3gat=1 G6gat=1 G7gat=X,0.0
+G19gat,sa1,YES,G1gat=X G2gat=0 G3gat=0 G6gat=X G7gat=1,0.001002
+G22gat,sa0,YES,G1gat=1 G2gat=X G3gat=1 G6gat=X G7gat=X,0.0
+G22gat,sa1,YES,G1gat=0 G2gat=0 G3gat=X G6gat=X G7gat=X,0.000999
+G23gat,sa0,YES,G1gat=X G2gat=1 G3gat=0 G6gat=X G7gat=X,0.0
+G23gat,sa1,YES,G1gat=X G2gat=0 G3gat=1 G6gat=1 G7gat=X,0.0
